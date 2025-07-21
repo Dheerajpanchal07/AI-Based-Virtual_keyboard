@@ -22,7 +22,15 @@ Check out the project in action on GitHub Pages:
 ![Typing Output](./path-to-image/typing-output.png)<img width="1572" height="855" alt="image (3)" src="https://github.com/user-attachments/assets/2f02a726-ed54-4926-b700-0e697dcd06d1" />
 
 
+
 ---
+Video:
+
+https://github.com/user-attachments/assets/6ec6813e-c0da-486d-af40-c97856d727ef
+
+
+
+
 
 
   
